@@ -1,8 +1,6 @@
 ### Hello, I'm Vaibhav Thakur
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://vaibhav-thakur-portfolio.netlify.app/)
 
- 
 ## I believe in Learning and Growing!!
 
 - I have started to build website on React
@@ -10,6 +8,9 @@
 - I have a good knowledge in HTML, CSS and Bootstrap
 - 2021 Goals: Learn new skills and explore more
 - Fun fact: I love to do gym and travel
+
+### Portfolio Website
+- Visit my <a href="https://vaibhav-thakur-portfolio.netlify.app/"> Website</a>
 
 
 ### Connect with me:
