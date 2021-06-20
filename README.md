@@ -3,11 +3,11 @@
 
 ## I believe in Learning and Growing!!
 
-- I have started to build website on React
+- I have started to build websites on React
 - I'm familiar with NODE and MongoDb
 - I have a good knowledge in HTML, CSS and Bootstrap
 - 2021 Goals: Learn new skills and explore more
-- Fun fact: I love to do gym and travel
+- Fun fact: I love to do gym and travelling
 
 ### Portfolio Website
 - Visit my <a href="https://vaibhav-thakur-portfolio.netlify.app/"> Website</a>
