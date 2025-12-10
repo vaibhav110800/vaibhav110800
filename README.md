@@ -6,7 +6,8 @@ I believe in **continuous learning and growth** – building meaningful products
 ---
 
 ## 🌐 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/vaibhav-thakur-24aa38174/)  
+- [LinkedIn](https://www.linkedin.com/in/vaibhav-thakur-24aa38174/)
+- [Medium](https://medium.com/@vaibhav11t)  
 - [Instagram](https://www.instagram.com/vaibhav11t/)  
 
 ---
